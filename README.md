@@ -1,6 +1,6 @@
 I was active in the QuickBasic scene 20 years ago. After retiring from work I have intalled DOSBox in my Win10 computer, got a copy of QB4.5 and I'm back into fun. I will start to like QB64 the day it starts to do executables smaller than 100 Kb....
 
-PERIOTBL.BAS Draws the Periodic Table of the Elements in SCREEN12. Uses a great print routine with multiple fonts made by E.F.Deel back in 1993, to which i have added several options .  I use too a set of DATA for the elements properties from a code by Dieter Folger (2003) . I found both at the ABC Packets.
+PERIOTBL.BAS Draws the Periodic Table of the Elements in SCREEN12. Uses a great print routine that gets multiple fonts from the VGA ROM and scales then. It was made by E.F.Deel back in 1993, and I have added several options .  I use too a set of DATA for the elements properties from a code by Dieter Folger (2003) . I found both at the ABC Packets. I'm afraid QB64 will not display the fonts, it's allergic to Interrupt calls.
 
 ![periotbl](https://github.com/user-attachments/assets/e844291c-ffd9-4d17-90d1-60ec8e0b5cf9)
 
