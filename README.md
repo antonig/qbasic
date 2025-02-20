@@ -14,4 +14,5 @@ MELINDA.BAS A different way to display the Mandelbrot set, discovered by Melinda
 
 
 WORLD.ZIP An old demo that maps an Earth map to asphere and makes it turn and have sunrises and sunsets on a starred background. Made in QB4.5, will not work in QBasic1.1 because of memory issues.
+
 ![world](https://github.com/user-attachments/assets/a14d6173-95b5-416d-9f2e-ed209aab6887)
