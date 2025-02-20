@@ -7,3 +7,6 @@ CALEND2.BAS  A perpetual calendar (Gregorian). Prints the year you choose. Month
 VIAJANTE.BAS This is a demo of the travelling salesman problem. The solving algorithm was posted by Alberto Migliorero. I made place for up to 240 cities, improved the visualization and added an initialization that joins each city with the closest not visites and makes the algoritthm's life easier.The original random initialization is funnier to watch.
 
 MELINDA.BAS A different way to display the Mandelbrot set, discovered by Melinda Green in 1993, it accumulates the intermediate values of the points where the series diverges. It's an old SCREEN13 code that does zillions of iterations, after a couple of minutes appears an image that suggests a person meditating in the lotus position. The original name given by Melinda to the image is nowadays non-PC.
+
+WORLD.ZIP An old demo that maps an Earth map to asphere and makes it turn and have sunrises and sunsets on a starred background. Made in QB4.5, will not work in QBasic1.1 because of memory issues.
+![world](https://github.com/user-attachments/assets/a14d6173-95b5-416d-9f2e-ed209aab6887)
