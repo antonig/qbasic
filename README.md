@@ -10,7 +10,7 @@ CALEND2.BAS  A perpetual calendar (Gregorian). Prints the year you choose. Month
 ![calend2](https://github.com/user-attachments/assets/7df8da47-1e2e-4fda-ba64-9d78f8b6b198)
 
 
-VIAJANTE.BAS This is a demo of the travelling salesman problem. The solving algorithm was posted by Alberto Migliorero. I made place for up to 240 cities, improved the visualization by adding a small font to label the cities and added an initialization that joins each city with the closest not visites and makes the algoritthm's life easier.The original random initialization is funnier to watch.
+VIAJANTE.BAS This is a demo of the travelling salesman problem. The solving algorithm was posted by Alberto Migliorero. I made place for up to 240 cities, improved the visualization by adding a small font to label the cities and added an initialization that joins each city with the closest not visited that makes the algoritthm's life easier. OTOH The original random initialization is funnier to watch.
 
 ![viajante](https://github.com/user-attachments/assets/c87552bf-d7af-4e12-a852-0fb3cc354aac)
 
@@ -20,6 +20,6 @@ MELINDA.BAS A different way to display the Mandelbrot set, discovered by Melinda
 ![melinda](https://github.com/user-attachments/assets/7e11e4a4-4bf1-4d90-a15a-a139737a7b7a)
 
 
-WORLD.ZIP An old demo that maps an Earth map to asphere and makes it turn and have sunrises and sunsets on a starred background. Made in QB4.5, will not work in QBasic1.1 because of memory issues.
+WORLD.ZIP An old demo of an Earth globe.  It maps an Earth map in PCX to a sphere and makes it turn and have sunrises and sunsets on a starred background. Made in QB4.5, will not work in QBasic1.1 because of memory issues.
 
 ![world](https://github.com/user-attachments/assets/a14d6173-95b5-416d-9f2e-ed209aab6887)
