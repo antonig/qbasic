@@ -10,7 +10,7 @@ CALEND2.BAS  A perpetual calendar (Gregorian). Prints the year you choose. Month
 ![calend2](https://github.com/user-attachments/assets/7df8da47-1e2e-4fda-ba64-9d78f8b6b198)
 
 
-VIAJANTE.BAS This is a demo of the travelling salesman problem. The solving algorithm was posted by Alberto Migliorero. I made place for up to 240 cities, improved the visualization by adding a small font to label the cities and added an initialization that joins each city with the closest not visited that makes the algoritthm's life easier. OTOH The original random initialization is funnier to watch.
+VIAJANTE.BAS This is a demo of the travelling salesman problem. The solving algorithm was posted by Alberto Migliorero. I made place for up to 240 cities in QB4.5, improved the visualization by adding a small font to label the cities and added an initialization that joins each city with the closest not visited that makes the algoritthm's life easier. OTOH The original random initialization is funnier to watch.
 
 ![viajante](https://github.com/user-attachments/assets/c87552bf-d7af-4e12-a852-0fb3cc354aac)
 
