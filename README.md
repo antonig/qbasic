@@ -5,7 +5,7 @@ PERIOTBL.BAS Draws the Periodic Table of the Elements in SCREEN12. Uses a great 
 ![periotbl](https://github.com/user-attachments/assets/e844291c-ffd9-4d17-90d1-60ec8e0b5cf9)
 
 
-CALEND2.BAS  A perpetual calendar (Gregorian). Prints the year you choose. Month and weekday names in DATA so it's easy to add more languages (now es,fr, en). A constant allows to choose print weeks starting on sunday. The program reads the events you set for the year and displays them. 6 colors for events. Events can be a single year, every year, every month and the nt'h monday...sunday) of a month or each month. Making all sundays as events took a single data line. Find instructions in the code.
+CALEND2.BAS  A perpetual calendar (Gregorian). Prints the year you choose. Month and weekday names are in DATA so it's easy to add more languages (now es,fr, en). A constant allows to choose print weeks starting on sunday. The program reads the events you set for the year in DATA and displays them. 6 colors for events. Events can be a single year, every year, every month and the nt'h day of week) of a month or each month. Making all sundays as events took a single DATA line. Find instructions in the code.
 
 ![calend2](https://github.com/user-attachments/assets/7df8da47-1e2e-4fda-ba64-9d78f8b6b198)
 
