@@ -23,3 +23,7 @@ MELINDA.BAS A different way to display the Mandelbrot set, discovered by Melinda
 WORLD.ZIP An old demo of an Earth globe.  It maps an Earth map in PCX to a sphere and makes it turn and have sunrises and sunsets on a starred background. Made in QB4.5, will not work in QBasic1.1 because of memory issues.
 
 ![world](https://github.com/user-attachments/assets/a14d6173-95b5-416d-9f2e-ed209aab6887)
+
+3DVESA.ZIP Another old QB45 code. It rotates and zooms the then usual 3D teapot in a VESA mode, in bare polygon or in Gouraud textured view. Its buggy, I could not manage to swap VESA pages without flickering and there are slits between the polygons. It calls interrupts.  Make the folder where the .bas and .plg are as default. 
+
+![3dvesa](https://github.com/user-attachments/assets/f06642c5-ab30-4da4-ab13-2198eac73eea)
