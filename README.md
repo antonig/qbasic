@@ -40,7 +40,7 @@ SPIGOT2.BAS Gets 1000 decimals of PI in a few seconds using an optimized spigot 
 
 ![spigot2](https://github.com/user-attachments/assets/865476f5-c19c-40dc-9ce8-57695ded72f9)
 
-FILESEL26.BAS  A file selector Function based the FILES keyword of QB. Use cursor to change directory and select a file. Can filter the files displayed by extensions. Does'nt use shell calls so a crippled COMMAND as the one in DosBox is not a problem.
+FILESEL26.BAS  A file selector Function based in the FILES keyword of QB. Use cursor to change directory and select a file. Can filter the files displayed by extensions. Does'nt use shell calls so a crippled COMMAND as the one in DosBox is not a problem.
 
 ![filesel26](https://github.com/user-attachments/assets/e73109d5-bfb1-4bb3-bf21-0b8486bc5ff1)
 
