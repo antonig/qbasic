@@ -27,3 +27,7 @@ WORLD.ZIP An old demo of an Earth globe.  It maps an Earth map in PCX to a spher
 3DVESA.ZIP Another old QB45 code. It rotates and zooms the then usual 3D teapot in a VESA mode, in bare polygon or in Gouraud textured view. Its buggy, I could not manage to swap VESA pages without flickering and there are slits between the polygons. It calls interrupts.  Make the folder where the .bas and .plg are as default. 
 
 ![3dvesa](https://github.com/user-attachments/assets/f06642c5-ab30-4da4-ab13-2198eac73eea)
+
+REVERSI2.BAS An old game by Microsoft, updated. SCREEN 12. No black background on texts. Pieces flicker at move or flip so you can follow the move. Crashes in expert mode solved (programmer supposed QB has shortcut evaluation of expresions...), updated help
+
+![reversi](https://github.com/user-attachments/assets/1bc6c9ee-d825-4ad6-98a0-5096774617c8)
