@@ -44,3 +44,6 @@ FILESEL26.BAS  A file selector Function based the FILES keyword of QB. Use curso
 
 ![filesel26](https://github.com/user-attachments/assets/e73109d5-bfb1-4bb3-bf21-0b8486bc5ff1)
 
+RGBPAL.BAS A palette for SCREEN13 that displays the whole range of colors in 254 palette slots. No luminance or saturation variation...
+
+![rgbpal](https://github.com/user-attachments/assets/3140d826-99b1-488f-b6b4-6a95fa46ff68)
