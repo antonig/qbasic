@@ -32,7 +32,7 @@ REVERSI2.BAS An old game by Microsoft, updated. SCREEN 12. No black background o
 
 ![reversi](https://github.com/user-attachments/assets/1bc6c9ee-d825-4ad6-98a0-5096774617c8)
 
-BIORYTHM.BAS  A pretext to post a bunch of tested calendrical functions (day of week gregorian <--> julian) and a 6x5 font. The program asks the birth date then it displays the biorythm curve for the current month.
+BIORYTHM.BAS  A pretext to post a bunch of tested calendrical functions (day of week, days in month, leap year, gregorian <--> julian) and a 6x5 font (only numbers). The program asks the birth date then it displays the biorythm curve for the current month.
 
 ![biorythm](https://github.com/user-attachments/assets/ec54ea0b-663b-48ba-8a18-7b7a4cd3c334)
 
