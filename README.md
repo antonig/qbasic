@@ -20,7 +20,7 @@ MELINDA.BAS A different way to display the Mandelbrot set, discovered by Melinda
 ![melinda](https://github.com/user-attachments/assets/7e11e4a4-4bf1-4d90-a15a-a139737a7b7a)
 
 
-WORLD.ZIP An old demo of an Earth globe.  It maps an Earth map in PCX to a sphere and makes it turn and have sunrises and sunsets on a starred background. Made in QB4.5, it will not work in QBasic1.1 because of memory issues.
+WORLD.ZIP An old demo of an Earth globe.  It wraps an Earth map in PCX to a sphere and makes it turn and have sunrises and sunsets on a starred background. Made in QB4.5, it will not work in QBasic1.1 because of memory issues.
 
 ![world](https://github.com/user-attachments/assets/a14d6173-95b5-416d-9f2e-ed209aab6887)
 
@@ -30,7 +30,7 @@ WORLD.ZIP An old demo of an Earth globe.  It maps an Earth map in PCX to a spher
 
 REVERSI2.BAS An old code by Microsoft based on the classic board game, updated by me. SCREEN 12 (originally used modes 10, 9, 2 or 3). No more black background on texts. Pieces flicker at move or flip so you can follow the move. Crashes in expert mode solved (the original programmer coded as if QB had shortcut evaluation of expresions...). Updated help and menu options.
 
-![reversi](https://github.com/user-attachments/assets/1bc6c9ee-d825-4ad6-98a0-5096774617c8)
+![reversi](https://github.com/user-attachments/assets/3632aa87-4409-4e48-b85c-1738cf391fc0)
 
 BIORYTHM.BAS  A pretext to post a bunch of tested calendrical functions (day of week, days in month, leap year, gregorian date <--> julian day) and a 6x5 font (only numbers). The program asks the birth date then it displays the biorythm curve for the current month.
 
