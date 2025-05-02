@@ -48,6 +48,6 @@ RGBPAL.BAS A palette for SCREEN13 that displays the whole range of colors in 254
 
 ![rgbpal](https://github.com/user-attachments/assets/3140d826-99b1-488f-b6b4-6a95fa46ff68)
 
-JPEGV4.ZIP A VESA JPEG Viewer i made in 2003. Runs in Qbasic. Displays Grayscale and YCbCr colorspace, non progresive JFIF jpegs. Fast! It allows to select any of the available VESA modes, it sets a palette and dithers the image for 8 bit modes. It fails with RGB or CMYK colorspaces or progressive images. Includes file browser.
+JPEGV4.ZIP A VESA JPEG Viewer i made in 2003. Runs in Qbasic. Displays Grayscale and YCbCr colorspace, non progresive JFIF jpegs. Fast! It allows to select any of the available VESA modes, it sets a palette and dithers the image for 8 bit modes. It fails with RGB or CMYK colorspaces or progressive images.  Includes file browser. The image included in the zip should work.
 
 ![jpegv4](https://github.com/user-attachments/assets/ca87878c-6460-4250-9e4d-bba1b0e1edc0)
