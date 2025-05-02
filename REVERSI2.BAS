@@ -220,7 +220,7 @@ SUB DisplayHelp
   a$(15) = "5) If you cannot make a legal move, you must choose Pass"
   a$(16) = "6) When neither you nor the computer can make a legal move, the"
   a$(17) = "   game is over."
-  a$(18) = "7) The one with the most circles wins."
+  a$(18) = "7) The player that ends with the most circles is the winner."
 
   LINE (0, 0)-(640, 480), BG, BF  'fondo
   CALL dobox(30, 15, 560, 420)
@@ -267,13 +267,15 @@ SUB DrawCursor (row, col)
 END SUB
 
 SUB DrawGameBoard
-
-  LINE (0, 0)-(640, 480), BG, BF   'fondo
-  CALL dobox(239, 10, 160, 25) 'titulo
+  LINE (0, 0)-(640, 480), 1, BF
+  FOR I = 0 TO 478
+  LINE (0, I)-STEP(639, 1), BG, , &H5555  'fondo
+  NEXT
+  CALL dobox(35, 10, 560, 25) 'titulo
   CALL dobox(269, 70, 320, 320) 'tablero
   CALL dobox(35, 260, 190, 130)  'inferior
   CALL dobox(35, 70, 190, 160)  'superior
-  CALL dobox(62, 425, 500, 27) 'mensajes
+  CALL dobox(35, 425, 560, 27) 'mensajes
 
   'grid
   FOR I = 0 TO 8
@@ -281,11 +283,11 @@ SUB DrawGameBoard
     LINE (270 + I * 40, 70)-STEP(1, 320), 7, B
  NEXT I
   
-  LOCATE 2, 35: COLOR 1: PRINT "R ";
-   COLOR 4: PRINT "E V E R S ";
+  LOCATE 2, 30: COLOR 1: PRINT "R";
+   COLOR 4: PRINT "  E  V  E  R  S  ";
    COLOR 1: PRINT "I";
    COLOR 7
-  LOCATE 6, 11: PRINT "Game Controls"
+  LOCATE 6, 11: COLOR 1: PRINT "Game Controls": COLOR 7
   LOCATE 8, 7: PRINT "S = Start New Game"
   LOCATE 9, 7: PRINT "P = Pass Turn"
   LOCATE 10, 7: PRINT "D = Set Difficulty"
@@ -294,7 +296,7 @@ SUB DrawGameBoard
   LOCATE 13, 7: PRINT "cursor kys = Position"
   LOCATE 14, 7: PRINT "Enter = your move"
 
-  LOCATE 18, 12: PRINT "Game Status"
+  LOCATE 18, 12: COLOR 1: PRINT "Game Status": COLOR 7
   viewscore
   
 
