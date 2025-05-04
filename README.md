@@ -1,5 +1,17 @@
 I was active in the QuickBasic scene 20 years ago. After retiring from work I have intalled DOSBox in my Win10 computer, got a copy of QB4.5 and I'm back into fun. I will start to like QB64 the day it starts to do executables smaller than 100 Kb....
 
+JPEGV4.ZIP A VESA JPEG Viewer i made in 2003. Runs in Qbasic. Displays Grayscale and YCbCr colorspace, non progresive JFIF jpegs. Fast! It allows to select any of the available VESA modes, it sets a palette and dithers the image for 8 bit modes. It fails with RGB or CMYK colorspaces or progressive images.  Includes file browser. The image included in the zip should work. Can be run in QBasic. 
+
+![jpegv4](https://github.com/user-attachments/assets/ca87878c-6460-4250-9e4d-bba1b0e1edc0)
+
+QBANSI2.BAS  A textmode ANSI and ASCII art viewer. It emulates the slow loading thru a 9600 baud mode so the "animated" ANSI images can be enjoyed.
+
+![ansiview](https://github.com/user-attachments/assets/305431b8-dca8-4165-84e5-619c93fac47e)
+
+ANIGIF99.BAS  A VESA viewer for animated GIF files
+
+![ball](https://github.com/user-attachments/assets/83135490-f0e1-436b-9b59-736fdba20e1e)
+
 PERIOTBL.BAS Draws the Periodic Table of the Elements in SCREEN12. Uses a great print routine that gets multiple fonts from the VGA ROM and scales them. It was made by E.F.Deel back in 1993, and I have added several options . I use too a set of DATA for the elements properties from a code by Dieter Folger (2003) . I found both at the ABC Packets. I'm afraid QB64 will not display the fonts, as it's allergic to Interrupt calls.
 
 ![periotbl](https://github.com/user-attachments/assets/e844291c-ffd9-4d17-90d1-60ec8e0b5cf9)
@@ -48,6 +60,4 @@ RGBPAL.BAS A palette for SCREEN13 that displays the whole range of colors in 254
 
 ![rgbpal](https://github.com/user-attachments/assets/3140d826-99b1-488f-b6b4-6a95fa46ff68)
 
-JPEGV4.ZIP A VESA JPEG Viewer i made in 2003. Runs in Qbasic. Displays Grayscale and YCbCr colorspace, non progresive JFIF jpegs. Fast! It allows to select any of the available VESA modes, it sets a palette and dithers the image for 8 bit modes. It fails with RGB or CMYK colorspaces or progressive images.  Includes file browser. The image included in the zip should work.
 
-![jpegv4](https://github.com/user-attachments/assets/ca87878c-6460-4250-9e4d-bba1b0e1edc0)
