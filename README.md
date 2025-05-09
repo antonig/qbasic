@@ -60,4 +60,5 @@ RGBPAL.BAS A palette for SCREEN13 that displays the whole range of colors in 254
 
 ![rgbpal](https://github.com/user-attachments/assets/3140d826-99b1-488f-b6b4-6a95fa46ff68)
 
-
+WORDHAS2.BAS It tallies the word frequencies of an ASCII text. It outputs a file with a sorted list of every word and its frequency. It implements a hash table and a quicksort algorithm. It processes the Complete Works by William Shakespeare in 6 seconds.
+![wordhash](https://github.com/user-attachments/assets/dc398b82-99a5-4d64-8f38-b7fc26ad0426)
