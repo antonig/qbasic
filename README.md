@@ -12,7 +12,7 @@ ANIGIF99.BAS  A 2003 VESA viewer for animated GIF files. It uses eMS memory to k
 
 ![ball](https://github.com/user-attachments/assets/83135490-f0e1-436b-9b59-736fdba20e1e)
 
-PERIOTBL.BAS Draws the Periodic Table of the Elements in SCREEN12. Uses a great print routine that gets multiple fonts from the VGA ROM and scales them. It was made by E.F.Deel back in 1993, and I have added several options . I use too a set of DATA for the elements properties from a code by Dieter Folger (2003) . I found both at the ABC Packets. I'm afraid QB64 will not display the fonts, as it's allergic to Interrupt calls.
+PERIOTBL.BAS Draws the Periodic Table of the Elements in SCREEN12. Uses a great print routine that gets multiple fonts from the VGA ROM and scales them, made by E.F.Deel back in 1993, I have added several options . It uses too a set of DATA for the elements properties from a code by Dieter Folger (2003) . I found both at the ABC Packets. I'm afraid QB64 will not display the fonts, as it's allergic to Interrupt calls.
 
 ![periotbl](https://github.com/user-attachments/assets/e844291c-ffd9-4d17-90d1-60ec8e0b5cf9)
 
