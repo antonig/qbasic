@@ -8,7 +8,7 @@ QBANSI2.BAS  A textmode ANSI and ASCII art viewer. It emulates the slow loading 
 
 ![ansiview](https://github.com/user-attachments/assets/305431b8-dca8-4165-84e5-619c93fac47e)
 
-ANIGIF99.BAS  A VESA viewer for animated GIF files
+ANIGIF99.BAS  A 2003 VESA viewer for animated GIF files. I had to adapt it to LZW delayed clear dictionnary commands, that were not common back then. When dictionary is full the file should issue a clear, but someone found it could be practical to stop filling the dictionery and continue with what was already in it, this was an innovation in 2003 and i had no file sambpes then. Nowadays this prectice is common. OTOH I added the new file selector that works with DOSBox 
 
 ![ball](https://github.com/user-attachments/assets/83135490-f0e1-436b-9b59-736fdba20e1e)
 
@@ -40,7 +40,7 @@ WORLD.ZIP An old demo of an Earth globe.  It wraps an Earth map in PCX to a sphe
 
 ![3dvesa](https://github.com/user-attachments/assets/f06642c5-ab30-4da4-ab13-2198eac73eea)
 
-REVERSI2.BAS An old code by Microsoft based on the classic board game, updated by me. SCREEN 12 (originally used modes 10, 9, 2 or 3). No more black background on texts. Pieces flicker at move or flip so you can follow the move. Crashes in expert mode solved (the original programmer coded as if QB had shortcut evaluation of expresions...). Updated help and menu options.
+REVERSI2.BAS An old code by Microsoft based on the classic board game, updated by me. I made it SCREEN 12 (originally it used modes 10, 9, 2 or 3). No more black background on texts. Pieces flicker at move or flip so you can follow the move. Crashes in expert mode solved (the original programmer coded as if QB had shortcut evaluation of expresions...). Updated help and menu options.
 
 ![reversi](https://github.com/user-attachments/assets/3632aa87-4409-4e48-b85c-1738cf391fc0)
 
